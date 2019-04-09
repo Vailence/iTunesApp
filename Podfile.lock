@@ -1,0 +1,44 @@
+PODS:
+  - Cartography (3.1.0)
+  - Kingfisher (5.1.0)
+  - SnapKit (4.2.0)
+  - SwifterSwift (4.6.0):
+    - SwifterSwift/AppKit (= 4.6.0)
+    - SwifterSwift/CoreGraphics (= 4.6.0)
+    - SwifterSwift/CoreLocation (= 4.6.0)
+    - SwifterSwift/Foundation (= 4.6.0)
+    - SwifterSwift/MapKit (= 4.6.0)
+    - SwifterSwift/SpriteKit (= 4.6.0)
+    - SwifterSwift/SwiftStdlib (= 4.6.0)
+    - SwifterSwift/UIKit (= 4.6.0)
+  - SwifterSwift/AppKit (4.6.0)
+  - SwifterSwift/CoreGraphics (4.6.0)
+  - SwifterSwift/CoreLocation (4.6.0)
+  - SwifterSwift/Foundation (4.6.0)
+  - SwifterSwift/MapKit (4.6.0)
+  - SwifterSwift/SpriteKit (4.6.0)
+  - SwifterSwift/SwiftStdlib (4.6.0)
+  - SwifterSwift/UIKit (4.6.0)
+
+DEPENDENCIES:
+  - Cartography
+  - Kingfisher
+  - SnapKit
+  - SwifterSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cartography
+    - Kingfisher
+    - SnapKit
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  Cartography: 1988b7578871a56c036e7af17195cb2190edf18c
+  Kingfisher: fcec238063d17404fca89bf0a850583211c4cbf6
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwifterSwift: 812ffec6f301922f5430e75be3f2939ea3a80024
+
+PODFILE CHECKSUM: 607e30dabaed4f56a35e754e52e8630008e6ae21
+
+COCOAPODS: 1.5.3
